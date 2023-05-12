@@ -35,8 +35,9 @@ Checkout the [notebook](pyspark-notebooks\Dataprocessing.ipynb) where the proces
 Docker file containing services for Kafka, Spark, Elasticsearch are provided 
 
 # Images: 
-    <img src="img/containers_running.png" width="200" />
-    <img src="img/elasticsearch_console_format.png" width="200" />
+<img src="img/containers.png" width="200"/>
+<img src="img/elasticsearch_console_format.png" width="200"/>
+    
 ## InProgress 
 
 1. integrating airflow to the pipeline checkit out at [airflow_branch](https://github.com/seepala98/ViralNation_Assessment.git)
