@@ -1,0 +1,9 @@
+# ignore file for airflow 
+
+# airflow related
+venv/*
+logs/*
+*.log
+*.env
+*.json
+pyspark-notebooks/data/e-shop_clothing_2008.json/*
