@@ -7,3 +7,4 @@ logs/*
 *.env
 *.json
 pyspark-notebooks/data/e-shop_clothing_2008.json/*
+*.pyc
